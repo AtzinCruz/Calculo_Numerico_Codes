@@ -29,10 +29,16 @@ The code provides the following methods for eigenvalues and eigenvectors:
 1. **Krylov**
 2. **Leverrier-Faddeev**
 
+## Diferential Ecuations
+
+The code provides the following methods for diferential ecuations:
+1. **Euler**
+2. **Runge-Kutta**
+
 ## Requirements
 
 - Python 3.x
-- Libraries: `sympy`, `numpy`, `os`, `tabulate`, `scipy`
+- Libraries: `sympy`, `numpy`, `os`, `tabulate`, `scipy`, `matplotlib.pyplot`
 
 You can install the required libraries using pip:
 
